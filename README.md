@@ -6,3 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 Up
+
+## Description
+This is the read me file for everyting
