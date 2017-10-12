@@ -13,3 +13,5 @@ This is the read me file for everyting
 ## Introduction
 Adding introduction text
 
+## Deployment
+Adding deployment instructions. Real deployment
