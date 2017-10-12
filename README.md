@@ -19,3 +19,6 @@ Adding deployment instructions. Real deployment
 ## Copyright
 2017 Git.Training
 
+## Human description add
+
+## Adding instruction on how to continue
