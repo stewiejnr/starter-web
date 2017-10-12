@@ -15,3 +15,7 @@ Adding introduction text
 
 ## Deployment
 Adding deployment instructions. Real deployment
+
+## Copyright
+2017 Git.Training
+
